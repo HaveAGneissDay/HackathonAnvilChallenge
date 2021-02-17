@@ -1,1 +1,1 @@
-# HackathonTypeDNAChallenge
+# HackathonTypingDNAChallenge
